@@ -1,0 +1,61 @@
+
+body {
+    font:15px calibri;
+    /*background-image: url("../imagenes/c.png");*/
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color:rgba(231,21,36,1);
+    color:rgba(255,255,255,1);
+    height:150px;
+    width:100%;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#cabecera {
+        width: 50%;
+        height: 100%;
+        /*background-color: rgba(123,21,65,1);*/
+        float: left;
+        padding-left: 40px;
+}
+
+#logo{
+    height: 100%;
+    width: 120px;
+    float: left;
+}
+#celaya{
+    height: 100%;
+    width: 290px;
+    float: left;
+}
+
+
+#pagina{
+    position: relative;
+    width: 900px;
+    left: 50%;
+    margin-left: -450px;
+
+-webkit-box-shadow: 0px 0px 98px 4px rgba(0,0,0,1);
+-moz-box-shadow: 0px 0px 98px 4px rgba(0,0,0,1);
+box-shadow: 0px 0px 98px 4px rgba(0,0,0,1);
+}
+
+#nota{
+    color:rgba(231,21,36,1);
+    font-weight: bold
+}
+
+h1{
+    color: rgba(250,2,19,1);
+}
+
+h2{
+    color: rgba(71,92,255,1);
+}
