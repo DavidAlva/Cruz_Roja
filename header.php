@@ -6,7 +6,7 @@
         <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
 <div id="pagina">
 <header>
-	        		<img id="logo" src="imagenes/logo.jpg">
+	        	<img id="logo" src="imagenes/logo.jpg">
 		        <div id="cabecera">Yo estoy ayudando. &#161;T&uacute tambi&eacuten puedes&#33;</div>
 		        <img id="celaya" src="imagenes/Celaya.jpg">
 </header>

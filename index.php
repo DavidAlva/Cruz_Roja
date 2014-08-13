@@ -18,7 +18,7 @@
 	       <div class="container">
 				<center><p><h1>Cruz Roja Mexicana Delegacion Celaya</h1></p></center>
 
-				<p><h3>Misi&oacuten</h3></p>
+				<p><h3> Misi&oacuten </h3></p>
 
 				<p>
 				Ofrecer atención eficiente a la población en casos de emergencia y en situaciones de desastre, e impulsar acciones tendientes a incrementar la capacidad de las personas y las comunidades a través de la acción voluntaria.
