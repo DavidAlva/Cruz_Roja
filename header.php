@@ -31,9 +31,9 @@
                    <li><a href="capacitacion.html">Capacitaci&oacute;n</a></li>
                    <li><a href="socorros/socorros.html">Socorros</a>
 			                   <ul class="subs">
-		                       <li><a href="#">1</a></li>
-	              			   <li><a href="#">2</a></li>
-	              			   <li><a href="#">3</a></li>
+		                       <li><a href="#">Centro de Operaciones de Rescate</a></li>
+	              			   <li><a href="http://cvoed.imss.gob.mx/CVOED_V2.0/org/crm/">Centro Virtual</a></li>
+	              			   <li><a href="#">Cat&aacute;logo de Cursos</a></li>
 		                       </ul>
                    </li>
                    <li><a href="juventud.html">Juventud</a></li>
