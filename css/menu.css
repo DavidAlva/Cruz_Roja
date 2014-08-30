@@ -3,26 +3,19 @@
     margin: 0;
     padding: 0;
 }
+
 #nav {
-    background: url('men.png') scroll 0 0 transparent;
-    clear: both;
-    font-size: 12px;
-    font-family: inherit;
-    height: 58px;
-    padding: 0 0 0 9px;
+    background: url('men.png') ;
+    font-size: 14px;
+    height: 30px;
     position: relative;
-    width: 892px;
+    width: 100%;
 }
+
 #nav ul {
-    background-color: #222;
-    border:1px solid #222;
-    border-radius: 0 5px 5px 5px;
-    border-width: 0 1px 1px;
-    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
-    left: -9999px;
-    overflow: hidden;
-    position: absolute;
-    top: -9999px;
+    background-color: rgb(35,35,35);
+    border-radius: 0px 0px 5px 5px;
+    position: absolute;    
     z-index: 2;
 
     -moz-transform: scaleY(0);
@@ -30,46 +23,42 @@
     -o-transform: scaleY(0);
     -webkit-transform: scaleY(0);
     transform: scaleY(0);
-
-    /*-moz-transform-origin: 0 0;
-    -ms-transform-origin: 0 0;
-    -o-transform-origin: 0 0;
-    -webkit-transform-origin: 0 0;
-    transform-origin: 0 0;
-
-    -moz-transition: -moz-transform 0.1s linear;
-    -ms-transition: -ms-transform 0.1s linear;
-    -o-transition: -o-transform 0.1s linear;
-    -webkit-transition: -webkit-transform 0.1s linear;
-    transition: transform 0.1s linear;*/
 }
-#nav li {
-    background: url('menu_line.png') no-repeat scroll right 5px transparent;
+
+
+
+.hsubs  {
+    background: url('menu_line.png') no-repeat scroll right 2px;
     float: left;
     position: relative;
-}
-#nav li a {
-    color: #FFFFFF;
-    display: block;
-    float: left;
-    font-weight: normal;
     height: 30px;
-    padding: 23px 20px 0;
-    position: relative;
+    padding: 7px 20px 0px 20px;
+}
+
+
+
+.subs{
+    height: 25px;
+    padding-top: 10px;
+    padding-left: 7px;
+}
+
+a {
+
+    color: #ffffff;
     text-decoration: none;
-    text-shadow: 1px 1px 1px #000000;
 }
-#nav li:hover > a {
-    color: #00B4FF;
+
+
+#nav .hsubs:hover, #nav .subs:hover{
+    background: #000000;
 }
-#nav li:hover, #nav a:focus, #nav a:hover, #nav a:active {
-    background: none repeat scroll 0 0 #121212;
-    outline: 0 none;
-}
-#nav li:hover ul.subs {
+
+
+#nav li:hover ul {
     left: 0;
-    top: 53px;
-    width: 180px;
+    top: 30px;
+    width: 250px;
 
     -moz-transform: scaleY(1);
     -ms-transform: scaleY(1);
@@ -77,17 +66,8 @@
     -webkit-transform: scaleY(1);
     transform: scaleY(1);
 }
-#nav ul li {
-    background: none;
-    width: 100%;
-}
-#nav ul li a {
-    float: none;
-}
-#nav ul li:hover > a {
-    background-color: #121212;
-    color: #00B4FF;
-}
+
+
 #lavalamp {
     background: url('lavalamp.png') no-repeat scroll 0 0 transparent;
     height: 16px;
@@ -102,12 +82,13 @@
     -webkit-transition: all 300ms ease;
     transition: all 300ms ease;
 }
+
 #lavalamp:hover {
-    -moz-transition-duration: 3000s;
-    -ms-transition-duration: 3000s;
-    -o-transition-duration: 3000s;
-    -webkit-transition-duration: 3000s;
-    transition-duration: 3000s;
+    -moz-transition-duration: 2000s;
+    -ms-transition-duration: 2000s;
+    -o-transition-duration: 2000s;
+    -webkit-transition-duration: 2000s;
+    transition-duration: 2000s;
 }
 
 #nav li:nth-of-type(1):hover ~ #lavalamp {
@@ -129,11 +110,11 @@
     left: 500px;
 }
 #nav li:nth-of-type(7):hover ~ #lavalamp {
-    left: 583px;
+    left: 590px;
 }
 #nav li:nth-of-type(8):hover ~ #lavalamp {
-    left: 680px;
+    left: 700px;
 }
 #nav li:nth-of-type(9):hover ~ #lavalamp {
-    left: 780px;
+    left: 800px;
 }
