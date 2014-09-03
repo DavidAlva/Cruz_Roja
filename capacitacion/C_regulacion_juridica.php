@@ -3,22 +3,22 @@
     <head>
         <meta charset="utf-8" />
         <title>Cruz Roja Mexicana</title>
-        <link href="css/layout.css" rel="stylesheet" type="text/css" />
-        <link href="css/menu.css" rel="stylesheet" type="text/css" />
-        <link href="capacitacion/css/contenedor_center.css" rel="stylesheet" type="text/css" />
-        <link href="capacitacion/css/columnas.css" rel="stylesheet" type="text/css" />
+        <link href="../css/layout.css" rel="stylesheet" type="text/css" />
+        <link href="../css/menu.css" rel="stylesheet" type="text/css" />
+        <link href="../capacitacion/css/contenedor_center.css" rel="stylesheet" type="text/css" />
+        <link href="../capacitacion/css/columnas.css" rel="stylesheet" type="text/css" />
         <link href="http://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple|3d" rel="stylesheet" type="text/css" />
         <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
     </head>
     <body>
         <div id="pagina">
 	        	<header>
-	        		<img id="logo" src="imagenes/logo.jpg">
+	        		<img id="logo" src="../imagenes/logo.jpg">
 		        <div id="cabecera"> Coordinacion Local de Capacitacion</div>
-		        <img id="celaya" src="imagenes/Celaya.jpg">
+		        <img id="celaya" src="../imagenes/Celaya.jpg">
 	        </header>
 
-	        <?php include('header.php');?>
+	        <?php include('../header2.php');?>
 
 	       <div class="container">
 				<div id="dgti">
@@ -26,7 +26,7 @@
 					
 				</div>
 				<br>
-				<a href="capacitacion/REGULACION_JURIDICA-001.pps"><img src="capacitacion/imagenes/ppt.png" title="REGULACION_JURIDICA-001"></a>
+				<a href="../capacitacion/REGULACION_JURIDICA-001.pps"><img src="../capacitacion/imagenes/ppt.png" title="REGULACION_JURIDICA-001"></a>
 				<br>
 
 				<h1>Norma Oficial Mexicana NOM-237-SSA1-2004</h1>
