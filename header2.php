@@ -42,7 +42,15 @@
 	
 	<li class="hsubs" ><a  href="#">&Aacute;rea M&eacute;dica</a></li>  
 	
-	<li class="hsubs" ><a  href="#">Veteranos</a></li> 
+	<li class="hsubs" ><a href="veteranos/veteranos.php">Veteranos</a>
+    	<ul>
+			<li class="subs"><a href="veteranos/veteranos.php">¿Quienes Somos?</a></li>
+	       	<li class="subs"><a href="veteranos/historia.php">Historia</a></li>
+	       	<li class="subs"><a href="veteranos/galeria.php">Fotogaleria</a></li>
+          	<li class="subs"><a href="veteranos/reglamento.php">Reglamento</a></li>
+           	<li class="subs"><a href="veteranos/enlaces.php">Enlaces</a></li>
+		</ul>
+ 	</li> 
 
 <div id="lavalamp"></div>
 </ul>
