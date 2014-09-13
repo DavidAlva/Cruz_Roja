@@ -18,32 +18,8 @@
 		        <img id="celaya" src="../imagenes/Celaya.jpg">
 	        </header>
 
-	        <ul id="nav">
-	               <li><a href="../index.html">Inicio</a></li>
-	               <li><a class="hsubs" href="#">Nosotros</a>
-			                    <ul class="subs">
-		                        <li><a href="historia.html">Historia</a></li>
-		                        <li><a href="principios.html">Los 7 principios fundamentales</a></li>
-		                        <li><a href="ubicacion.html">Ubicacion</a></li>
-		                        </ul>
-		           </li>
-                                      <li><a class="hsubs" href="#">Administrativos</a>
-                    <ul class="subs">
-		                       <li><a href="../administrativo/instruccion_tum.html">Instruccion T.U.M</a></li>
-	              			   <li><a href="../administrativo/enlaces.html">Enlaces</a></li>
-	              			   <li><a href="../administrativo/regulacion_juridica.html">Regulacion Juridica</a></li>
-		                        </ul>
-		           </li>
-                   <li><a href="consejo.html">Directivo</a></li>
-                   <li><a href="capacitacion.html">Capacitaci&oacute;n</a></li>
-                   <li><a href="socorro.html">Socorro</a></li>
-                   <li><a href="juventud.html">Juventud</a></li>
-                  <li><a href="areaMedica.html">&Aacute;rea M&eacute;dica</a></li>  
-                   <li><a href="veteranos.html">Veteranos</a></li> 
-	               
-	            	<div id="lavalamp"></div>
-	         </ul>
-
+				<?php include('../header2.php');?>
+				
 	       <div class="container">
 				<center><p><h1>Ubicaci&oacuten</h1></p></center> 
 

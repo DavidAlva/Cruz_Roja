@@ -4,17 +4,16 @@
 
 	<li class="hsubs" ><a  href="#">Nosotros</a>
 		<ul>
-			<li class="subs" ><a href="../nosotros/historia.html">Historia</a></li>
-			<li class="subs" ><a href="../nosotros/principios.html">Los 7 principios fundamentales</a></li>
-			<li class="subs" ><a href="../nosotros/ubicacion.html">Ubicaci&oacute;n</a></li>
+			<li class="subs" ><a href="../nosotros/historia.php">Historia</a></li>
+			<li class="subs" ><a href="../nosotros/principios.php">Los 7 principios fundamentales</a></li>
+			<li class="subs" ><a href="../nosotros/consejo.php">Consejo</a></li>
+			<li class="subs" ><a href="../nosotros/ubicacion.php">Ubicaci&oacute;n</a></li>
 		</ul>
 	</li>
 
 	<li class="hsubs" ><a  href="#">Administrativos</a>
 		<ul>
-			<li class="subs" ><a href="../administrativos/instruccion_tum.html">Instrucci&oacute;n T.U.M</a></li>
-			<li class="subs" ><a href="../administrativos/enlaces.html">Enlaces</a></li>
-			<li class="subs" ><a href="../administrativos/regulacion_juridica.html">Regulaci&oacute;n Jur&iacute;dica</a></li>
+			<li class="subs" ><a href="../administrativo/administracion.php">Administraci&oacute;n</a></li>
 		</ul>
 	</li>
 
