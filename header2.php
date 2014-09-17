@@ -1,5 +1,5 @@
 
-<ul id="nav">
+<ul id="navi">
 	<li class="hsubs" ><a  href="../index.php">Inicio</a></li>
 
 	<li class="hsubs" ><a  href="#">Nosotros</a>
@@ -37,9 +37,24 @@
 		</ul>
 	</li>
 
-	<li class="hsubs" ><a href="#">Juventud</a></li>
+	<li class="hsubs" ><a href="../juventud/juventud.php">Juventud</a>
+	<ul>
+			       <li class="subs" ><a href="../juventud/mision.php">Misi&oacute;n</a></li>
+                   <li class="subs" ><a href="../juventud/integrate.php">Integrate</a></li>
+                   <li class="subs" ><a href="../juventud/eventos.php">Eventos</a></li>
+                   <li class="subs" ><a href="../juventud/historial.php">Historial</a></li>
+                   <li class="subs" ><a href="../juventud/foro.php">Foro</a></li>
+		</ul>
 	
-	<li class="hsubs" ><a  href="#">&Aacute;rea M&eacute;dica</a></li>  
+	</li>
+	
+	<li class="hsubs" ><a  href="#">&Aacute;rea M&eacute;dica</a>
+	<ul>
+	<li class="subs" ><a href="../area_medica/servicios_medicos.php">Servicios Medicos</a></li>
+    <li class="subs" ><a href="../area_medica/campanas.php">Campañas</a></li>
+	
+	</ul>
+	</li>  
 	
 	<li class="hsubs" ><a href="veteranos/veteranos.php">Veteranos</a>
     	<ul>

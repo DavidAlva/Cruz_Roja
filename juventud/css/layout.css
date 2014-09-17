@@ -1,0 +1,70 @@
+
+body {
+    font:15px calibri;
+    /*background-image: url("../imagenes/c.png");*/
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+     
+    height:150px;
+    width:100%;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#cabecera {
+        width: 450px;
+        height: 100%;
+        background-image: url("../imagenes/juventud2.jpg");
+        float: left;
+        padding-left: 40px;
+}
+
+#logo{
+    height: 100%;
+    width: 120px;
+    float: left;
+}
+#celaya{
+    height: 100%;
+    width: 290px;
+    float: left;
+}
+
+
+#pagina{
+    position: relative;
+    width: 900px;
+    left: 50%;
+    margin-left: -450px;
+
+-webkit-box-shadow: 0px 0px 98px 4px rgba(0,0,0,1);
+-moz-box-shadow: 0px 0px 98px 4px rgba(0,0,0,1);
+box-shadow: 0px 0px 98px 4px rgba(0,0,0,1);
+}
+
+#nota{
+    color:rgba(231,21,36,1);
+    font-weight: bold
+}
+
+h1{
+    color: rgba(255, 255, 255, 1);
+	text-align:center;
+}
+
+h2{
+    color: rgba(71,92,255,1);
+}
+
+#texto{
+text-align: justify;	
+}
+
+#titulo{
+color: rgba(255, 0, 0, 0.9);
+text-align:center;
+}

@@ -1,0 +1,167 @@
+#e1{
+    width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/cambiando_vidas.png");
+    background-size: 100% 100%;
+}
+
+#e2{
+    width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/plan_de_accion.png");
+    background-size: 100% 100%;
+}
+
+#e3{
+    width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/primeros_auxilios.png");
+    background-size: 100% 100%;
+}
+
+#e4{
+	width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/prevencion_accidentes.png");
+    background-size: 100% 100%;
+}
+
+#e5{
+    width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/dengue.png");
+    background-size: 100% 100%;
+}
+
+#e6{
+    width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/disney.png");
+    background-size: 100% 100%;
+}
+
+#e7{
+   width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/seguridad_vial.png");
+    background-size: 100% 100%;
+}
+
+#e8{
+    width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/somos_todos.png");
+    background-size: 100% 100%;
+}
+
+#e9{
+     width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/somos_iguales.png");
+    background-size: 100% 100%;
+}
+
+#e10{
+     width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/somos_iguales_juventud.png");
+    background-size: 100% 100%;
+}
+
+#e11{
+     width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/epc.png");
+    background-size: 100% 100%;
+}
+
+#e12{
+     width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/muevete.png");
+    background-size: 100% 100%;
+}
+
+#e13{
+     width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/desastres.png");
+    background-size: 100% 100%;
+}
+
+#e14{
+    width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/checa_vida.png");
+    background-size: 100% 100%;
+}
+
+#e15{
+     width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/diabetes.png");
+    background-size: 100% 100%;
+}
+
+#e16{
+     width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/sin_hambre.png");
+    background-size: 100% 100%;
+}
+
+#e17{
+     width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/plv.png");
+    background-size: 100% 100%;
+}
+
+#e18{
+     width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/salud_sexual.png");
+    background-size: 100% 100%;
+}
+
+#e19{
+     width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/vih_sida.png");
+    background-size: 100% 100%;
+}
+
+#e20{
+     width: 160px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/listo_seguro.png");
+    background-size: 100% 100%;
+}
+
+#e21{
+     width: 220px;
+    height: 140px;
+    background-image: url("../imagenes/mision/programas/salud.png");
+    background-size: 100% 100%;
+}
+
+
+.enlaces {
+    margin: 15px;
+  display: inline-block;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+  -webkit-transition-property: box-shadow;
+  transition-property: box-shadow;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: inset 0 0 0 5px #e1e1e1, 0 0 1px rgba(0, 0, 0, 0);
+  /* Hack to improve aliasing on mobile/tablet devices */
+}
+
+.enlaces:hover {
+  box-shadow: inset 0 0 0 5px rgba(255,178,12,1), 0 0 1px rgba(0, 0, 0, 0);
+  /* Hack to improve aliasing on mobile/tablet devices */
+}

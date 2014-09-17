@@ -1,0 +1,18 @@
+.container {
+    position: relative;
+    width: 95.5%;
+    /*background-color: rgba(255,255,255,1);*/
+    padding: 20px;
+    /*text-align: center;*/
+    background-image: url("../imagenes/c.png");
+}
+
+#img_ce{
+	margin-left: 19%;
+	width: 550px;
+	height: 400px;
+	background-image: url("../imagenes/CFASPANOL.jpg");
+	background-size: 100% 100%;
+
+}
+

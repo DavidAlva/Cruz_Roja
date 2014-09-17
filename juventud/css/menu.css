@@ -1,10 +1,10 @@
-#navi,#navi ul {
+#nav,#nav ul {
     list-style: none outside none;
     margin: 0;
     padding: 0;
 }
 
-#navi {
+#nav {
     background: url('men.png') ;
     font-size: 14px;
     height: 30px;
@@ -12,7 +12,7 @@
     width: 100%;
 }
 
-#navi ul {
+#nav ul {
     background-color: rgb(35,35,35);
     border-radius: 0px 0px 5px 5px;
     position: absolute;    
@@ -50,12 +50,12 @@ a {
 }
 
 
-#navi .hsubs:hover, #navi .subs:hover{
+#nav .hsubs:hover, #nav .subs:hover{
     background: #000000;
 }
 
 
-#navi li:hover ul {
+#nav li:hover ul {
     left: 0;
     top: 30px;
     width: 250px;
@@ -91,30 +91,30 @@ a {
     transition-duration: 2000s;
 }
 
-#navi li:nth-of-type(1):hover ~ #lavalamp {
+#nav li:nth-of-type(1):hover ~ #lavalamp {
     left: 13px;
 }
-#navi li:nth-of-type(2):hover ~ #lavalamp {
+#nav li:nth-of-type(2):hover ~ #lavalamp {
     left: 90px;
 }
-#navi li:nth-of-type(3):hover ~ #lavalamp {
+#nav li:nth-of-type(3):hover ~ #lavalamp {
     left: 200px;
 }
-#navi li:nth-of-type(4):hover ~ #lavalamp {
+#nav li:nth-of-type(4):hover ~ #lavalamp {
     left: 305px;
 }
-#navi li:nth-of-type(5):hover ~ #lavalamp {
+#nav li:nth-of-type(5):hover ~ #lavalamp {
     left: 403px;
 }
-#navi li:nth-of-type(6):hover ~ #lavalamp {
+#nav li:nth-of-type(6):hover ~ #lavalamp {
     left: 500px;
 }
-#navi li:nth-of-type(7):hover ~ #lavalamp {
+#nav li:nth-of-type(7):hover ~ #lavalamp {
     left: 590px;
 }
-#navi li:nth-of-type(8):hover ~ #lavalamp {
+#nav li:nth-of-type(8):hover ~ #lavalamp {
     left: 700px;
 }
-#navi li:nth-of-type(9):hover ~ #lavalamp {
+#nav li:nth-of-type(9):hover ~ #lavalamp {
     left: 800px;
 }
