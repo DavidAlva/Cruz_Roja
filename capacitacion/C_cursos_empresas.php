@@ -13,7 +13,7 @@
         <div id="pagina">
 	        	<header>
 	        		<img id="logo" src="../imagenes/logo.jpg">
-		        <div id="cabecera"> Coordinacion Local de Capacitacion</div>
+		        <div id="cabecera"> Coordinaci&oacute;n Local de Capacitaci&oacute;n</div>
 		        <img id="celaya" src="../imagenes/Celaya.jpg">
 	        </header>
 

@@ -12,9 +12,10 @@
     </head>
     <body>
         <div id="pagina">
+
 	        	<header>
 	        		<img id="logo" src="../imagenes/logo.jpg">
-		        <div id="cabecera">Yo estoy ayudando. &#161;Tu tambien puedes&#33;</div>
+		        <div id="cabecera">Yo estoy ayudando. &#161;T&uacute; tambi&eacute;n puedes&#33;</div>
 		        <img id="celaya" src="../imagenes/Celaya.jpg">
 	        </header>
 

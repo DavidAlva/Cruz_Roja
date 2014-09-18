@@ -15,7 +15,7 @@
         <div id="pagina">
 	        <header>
 	        		<img id="logo" src="../imagenes/logo.jpg">
-		        <div id="cabecera">Union, el Poder de la Humanidad</div>
+		        <div id="cabecera">Uni&oacute;n, el Poder de la Humanidad</div>
 		        <img id="celaya" src="../imagenes/Celaya.jpg">
 	        </header>
              
