@@ -10,6 +10,10 @@
 		<link href="css/columnas.css" rel="stylesheet" type="text/css" />
         <link href="http://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple|3d" rel="stylesheet" type="text/css" />
         <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+		
+		<link rel="stylesheet" type="text/css" href="engine1/style.css" />	<!--	css de wow slider	-->
+		<script type="text/javascript" src="engine1/jquery.js"></script>	<!--	css de wow slider	--> 
+
     </head>
     <body>
 
@@ -23,13 +27,40 @@
 			
 			
      		<?php include('../header2.php');?>
-
-	       <div class="contenedor">
+			
+	     <div class="contenedor">
 				<center><p><h1 id="titulo">Cruz Roja Mexicana Delegacion Celaya</h1></p></center>
                 <a href="mision.html#lancha">	<p><h1 id="titulo">Juventud</h1></p> </a>
 
-				
-                <img src="imagenes/juventud/juventud1.jpg">
+				<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+<li><a><img src="data1/images/com_27_img_1.jpg" alt="" title="" id="wows1_0"/></a></li>	<!--	Noticia más reciente	-->
+<li><a><img src="data1/images/com_27_img_2.jpg" alt="" title="" id="wows1_1"/></a></li>
+<li><a><img src="data1/images/com_27_img_3.jpg" alt="" title="" id="wows1_2"/></a></li>
+<li><a><img src="data1/images/com_27_img_4.jpg" alt="" title="" id="wows1_3"/></a></li>
+<li><a><img src="data1/images/com_27_img_5.jpg" alt="" title="" id="wows1_4"/></a></li>
+<li><a><img src="data1/images/com_27_img_6.jpg" alt="" title="" id="wows1_5"/></a></li>
+<li><a><img src="data1/images/com_27_img_7.jpg" alt="" title=""id="wows1_6"/></a></li>
+<li><a><img src="data1/images/com_27_img_8.jpg" alt="" title="" id="wows1_7"/></a></li>
+
+</ul></div>
+<div class="ws_bullets"><div>
+<a href="#"><img src="data1/tooltips/com_27_img_1.jpg" />1</a>
+<a href="#" ><img src="data1/tooltips/com_27_img_2.jpg"/>2</a>
+<a href="#" ><img src="data1/tooltips/com_27_img_3.jpg"/>3</a>
+<a href="#" ><img src="data1/tooltips/com_27_img_4.jpg"/>4</a>
+<a href="#" ><img src="data1/tooltips/com_27_img_5.jpg"/>5</a>
+<a href="#" ><img src="data1/tooltips/com_27_img_6.jpg"/>6</a>
+<a href="#" ><img src="data1/tooltips/com_27_img_7.jpg"/>7</a>
+<a href="#" ><img src="data1/tooltips/com_27_img_8.jpg"/>8</a>
+
+</div></div>
+	</div>
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+        <!--FIN Carrusel-->
+     <!--2° bloque-->
                 <p><h2>¿Qu&eacute; es Juventud?</h2></p>
 
 	<!--			<p><a href="13edicion.BoletÃ-n.Enero.CRM.Guanajuato.pdf"><img src="imagenes/pdf.png" title="13 Edicion.Boleti­n.Enero.CRM.Guanajuato.pdf"></a></p>  -->
