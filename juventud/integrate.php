@@ -73,11 +73,11 @@
   <tbody>
     <tr>
       <td class="active"><a href="porque_juventud.php"><font color="black"><u>¿Porqué inscribirme a la Cruz Roja de la Juventud?</u></font></a></td>
-	  <td class="danger">¿Cuáles son los requisitos generales para inscribirse?</td>
+	  <td class="danger"><a href="quiero-ser-juve.php"><font color="black"><u>¿Cuáles son los requisitos generales para inscribirse?</u></font></a></td>
     </tr>
 	<tr >
 	<td class="success"><center><a href="inscripcion.php#talentos"><font color="black"><u>Participar con mis Talentos</u></font></a></center></td>
-	<td class="info"><center>Información para Papás, Mamás y Tutores.</center></td>
+	<td class="info"><center><a href="informacion-padres.php"><font color="black"><u>Información para Papás, Mamás y Tutores.</u></font></a></center></td>
 	</tr>
     
     </tbody>
