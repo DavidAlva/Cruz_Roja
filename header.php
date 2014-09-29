@@ -41,9 +41,10 @@
 		<ul>
 			       <li class="subs" ><a href="juventud/mision.php">Misi&oacute;n</a></li>
                    <li class="subs" ><a href="juventud/integrate.php">Integrate</a></li>
+				   <li class="subs" ><a href="juventud/nosotros.php">Nosotros</a></li>
+                   <li class="subs" ><a href="juventud/historia.php">Historia</a></li>
                    <li class="subs" ><a href="juventud/eventos.php">Eventos</a></li>
-                   <li class="subs" ><a href="juventud/historial.php">Historial</a></li>
-                   <li class="subs" ><a href="juventud/foro.php">Foro</a></li>
+                   
 		</ul>
 	</li>
 	
