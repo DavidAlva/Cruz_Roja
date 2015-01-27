@@ -17,14 +17,12 @@
 		</ul>
 	</li>
 
-	<li class="hsubs" ><a href="#">Directivo</a></li>
-
 	<li class="hsubs" ><a href="C_capacitacion.php"> Capacitaci&oacute;n</a>
 		<ul>
-			<li class="subs" ><a href="C_cursos_empresas.php">Cursos para Empresas</a></li>
-			<li class="subs" ><a href="C_instruccion_tum.php">Instrucci&oacute;n T.U.M</a></li>
-			<li class="subs" ><a href="C_enlaces.php">Enlaces</a></li>
-			<li class="subs" ><a href="C_regulacion_juridica.php">Regularizaci&oacute;n Jur&iacute;dica</a></li>
+			<li class="subs" ><a href="capacitacion/C_cursos_empresas.php">Cursos para Empresas</a></li>
+			<li class="subs" ><a href="capacitacion/C_instruccion_tum.php">Instrucci&oacute;n T.U.M</a></li>
+			<li class="subs" ><a href="capacitacion/C_enlaces.php">Enlaces</a></li>
+			<li class="subs" ><a href="capacitacion/C_regulacion_juridica.php">Regularizaci&oacute;n Jur&iacute;dica</a></li>
 		</ul>
 
 	</li>

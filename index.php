@@ -9,6 +9,10 @@
         <link href="css/tabla.css" rel="stylesheet" type="text/css" />
         <link href="http://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple|3d" rel="stylesheet" type="text/css" />
         <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+
+        <script src="http://code.jquery.com/jquery-1.7.2.min.js" type="text/javascript"></script>
+        <script src="java/dev/jquery.jsCarousel-1.1.1.js" type="text/javascript"></script>      
+        <script src="java/sample.js" type="text/javascript"></script>
     </head>
     <body>
 
@@ -24,12 +28,42 @@
 	       <div class="container">
 				<center><p><h1>Cruz Roja Mexicana Delegacion Celaya</h1></p></center>
 
-				<p><h3> Misi&oacuten </h3></p>
+				<br>
+				<p><h2> Misi&oacuten </h2></p>
+				<hr>
 
 				<p>
 				Ofrecer atención eficiente a la población en casos de emergencia y en situaciones de desastre, e impulsar acciones tendientes a incrementar la capacidad de las personas y las comunidades a través de la acción voluntaria.
 				</p>
+				<br>
+							<div id="carrussel">
+                                        <script type="text/javascript">
+										    jQuery(document).ready(function ()
+										    {
+										        jQuery('#carrusel').jsCarousel({
+										            autoStart: true
+										            , direction: 1
+										            , effect: 'fade'
+										            , interval: 4000
+										            , effectDuration: 1400
+										            , width: 800
+										            , height: 300
+										        });
+													    });
+										</script>
+													 
+													<ul id="carrusel">
+													    <li><a data-image="imagenes/cruzroja.png" title="Bienvenidos">First link</a></li>
+													    <li><a data-image="imagenes/cruzroja2.png" title="Bienvenidos">The link number 2</a></li>
+													    <li><a data-image="imagenes/cruzroja3.png" title="Bienvenidos">This is the third link</a></li>
+													</ul>
+							</div>
+							<br>
+							<br>
 				
+				<p><h3> Tu puedes apoyar aportando en la siguiente cuenta: </h3></p>
+				<hr>
+				<br>
 				<table cellspacing="0">
 					<tr><th>CRUZ ROJA MEXICANA</th> <th></th></tr>
 					<tr><td>BANCO</td> <td>BANCOMER</td></tr>

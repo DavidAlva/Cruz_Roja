@@ -17,8 +17,6 @@
 		</ul>
 	</li>
 
-	<li class="hsubs" ><a href="#">Directivo</a></li>
-
 	<li class="hsubs" ><a href="../capacitacion/C_capacitacion.php"> Capacitaci&oacute;n</a>
 		<ul>
 			<li class="subs" ><a href="../capacitacion/C_cursos_empresas.php">Cursos para Empresas</a></li>

@@ -21,7 +21,7 @@
 				<?php include('../header2.php');?>
 				
 	       <div class="container">
-				<center><p><h1>Ubicaci&oacuten</h1></p></center> 
+				<center><p><h1>Ubicaci&oacuten<hr></h1></p></center> 
 
 					<p><h3>Si eres visitante y/o simplemente desconoces nuestra ubicaci&oacuten fisica, te dejamos el siguiente mapa para tu ayuda: <br> Direcci&oacuten: <br> Av. Constituyentes s/n Rosa Linda</h3></p>                             
 						               

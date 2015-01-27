@@ -25,25 +25,25 @@
 						<p>
 						Proclamados en Viena en 1965, los siete Principios Fundamentales crean un vínculo de unión entre las Sociedades Nacionales de la Cruz Roja y de la Media Luna Roja, el Comité Internacional de la Cruz Roja y la Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja. Los Principios Fundamentales garantizan la continuidad del Movimiento de la Cruz Roja y de la Media Luna Roja y su labor humanitaria.
 						
-						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Humanidad</h3></p>
+						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Humanidad<hr></h3></p>
 						El Movimiento de la Cruz Roja y de la Media Luna Roja, al que ha dado nacimiento la preocupación de prestar auxilio, sin discriminación, a todos los heridos en los campos de batalla, se esfuerza, bajo su aspecto internacional y nacional, en prevenir y aliviar el sufrimiento de los hombres en todas las circunstancias. Tiende a proteger la vida y la salud, así como a hacer respetar a la persona humana. Favorece la comprensión mutua, la amistad, la cooperación y una paz duradera entre todos los pueblos.
 
-						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Imparcialidad</h3></p>
+						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Imparcialidad<hr></h3></p>
 						No hace ninguna distinción de nacionalidad, raza, religión, condición social ni credo político. Se dedica únicamente a socorrer a los individuos en proporción con los sufrimientos, remediando sus necesidades y dando prioridad a las más urgentes.
 
-						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Neutralidad</h3></p>
+						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Neutralidad<hr></h3></p>
 						Con el fin de conservar la confianza de todos, el Movimiento se abstiene de tomar parte en las hostilidades y, en todo tiempo, en las controversias de orden político, racial, religioso o ideológico.
 
-						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Independencia</h3></p>
+						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Independencia<hr></h3></p>
 						El Movimiento es independiente. Auxiliares de los poderes públicos en sus actividades humanitarias y sometidas a las leyes que rigen los países respectivos, las Sociedades Nacionales deben, sin embargo, conservar una autonomía que les permita actuar siempre de acuerdo con los principios del Movimiento.
 
-						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Voluntariado</h3></p>
+						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Voluntariado<hr></h3></p>
 						Es un Movimiento de socorro voluntario y de carácter desinteresado.
 
-						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Unidad</h3></p>
+						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Unidad</h3><hr></p>
 						En cada país sólo puede existir una sociedad de La Cruz Roja o de La Media Luna Roja. Debe ser accesible a todos y extender su acción humanitaria a la totalidad del territorio.
 
-						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Universalidad</h3></p>
+						<p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Universalidad<hr></h3></p>
 						El Movimiento Internacional de la Cruz Roja y de la Media Luna Roja, en cuyo seno todas las sociedades tienen los mismos derechos y el deber de ayudarse mutuamente, es universal.
 						</p>  
 						<br>

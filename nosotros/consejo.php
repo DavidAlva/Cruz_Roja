@@ -21,7 +21,7 @@
 	       <?php include('../header2.php');?>
 
 	       <div class="container">
-				<center><p><h1>Consejo Regional</h1></p></center>                             
+				<center><p><h1>Consejo Regional</h1></p></center>  <hr>                           
 						<div>
 						<br>
 						<br>
@@ -29,6 +29,7 @@
 						</div> 
 						<br>
 						<br>
+						<hr>
 	       </div>
         	
         </div>
